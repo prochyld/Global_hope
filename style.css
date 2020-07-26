@@ -10,3 +10,6 @@ h6 {
 a {
     color: #001a66;
 }
+p   {
+    text-emphasis-position: left;
+}
